@@ -1,4 +1,4 @@
-package com.github.jhonpresley.citiesapi.countries;
+package com.github.jhonpresley.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
